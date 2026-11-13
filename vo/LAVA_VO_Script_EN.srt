@@ -1,1 +1,27 @@
-sha256:bf1b91e12fe524d3b929264fc098ce0e3c1d3b177317700b35fe8b8146a70ea0:/tmp/claude-0/-home-claude/5bbff56b-b50f-5112-beed-ee46b1b97e84/scratchpad/build/pkg/LAVA_VO_Script_EN.srt
+1
+00:00:00,800 --> 00:00:05,500
+Fire behaves differently when gravity disappears.
+
+2
+00:00:06,500 --> 00:00:15,000
+Meet LAVA - a microgravity combustion research workspace.
+
+3
+00:00:16,500 --> 00:00:23,500
+One workspace, six capabilities. From raw telemetry to insight in three steps.
+
+4
+00:00:24,500 --> 00:00:33,000
+An agent that knows what you're looking at. Grounded answers, not guesses.
+
+5
+00:00:34,200 --> 00:00:39,000
+It plans, retrieves, then reasons. Always mission-ready.
+
+6
+00:00:40,300 --> 00:00:45,000
+Start with a question.
+
+7
+00:00:53,000 --> 00:00:57,000
+LAVA. Understand fire, beyond gravity.
