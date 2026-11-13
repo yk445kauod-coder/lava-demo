@@ -1,0 +1,1 @@
+sha256:bf1b91e12fe524d3b929264fc098ce0e3c1d3b177317700b35fe8b8146a70ea0:/tmp/claude-0/-home-claude/5bbff56b-b50f-5112-beed-ee46b1b97e84/scratchpad/build/pkg/LAVA_VO_Script_EN.srt
